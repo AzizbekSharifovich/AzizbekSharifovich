@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Azizbek Sharifovich
+### 👋 Hi there, I’m Azizbek!
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning .NET.
 
